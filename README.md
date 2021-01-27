@@ -17,7 +17,7 @@
 
 ---
 ```
-p.s. I am not responsible for any possible bodily harm, anxiety, depression, loss of marks due to plagiarism or allergies to seafood that may arise from using these notes
+p.s. I am not responsible for any possible bodily harm, anxiety, depression, loss of marks due to plagiarism or allergies to seafood that may arise from using these notes - use these notes at your own risk
 ```
 ---
 # [Drama (DR)](DR/README.md)
