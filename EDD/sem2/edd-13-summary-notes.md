@@ -1,0 +1,74 @@
+<h1 align="center"><b> 13 Resilient and Liveable Cities Summary Notes </b></h1>
+
+> Related: [EDD Notes](/tcfs-notes/EDD/README.md)
+
+- acute shock
+  - strategy/design solution
+- chronic stress
+  - strategy/design solution
+- Liveability [~definition](link_generated_on_download):: an assessment of what a place is like to live in, using particular criteria, for example, environmental quality, crime and safety, education and health provision, access to shops and services, recreational facilities and cultural activities #~definition
+  - EIU Liveability Index
+    - Stability
+    - Healthcare
+    - Culture and Environment
+    - Education
+    - Infrastructure
+  - which EIU category is the most important (opinion):: Stability, because if a country is at war or disarray, all of the other categories would not be able to exist as most of the country's focus and resources would be on gaining stability first
+  - link between liveability and sustainability
+    - Liveability is partly dependent upon the sustainability of the natural environment.
+    - Environmental sustainability provides the basis for health (social sustainability) and liveability:
+    - Improvements in quality of water infrastructure water for liveability also improve health outcomes such as life expectancy and reduced infant mortality therefore improving social sustainability.
+    - A liveable city will also boost sustainability:
+    - Good quality public transport for liveability will improve air quality and reduce greenhouse gas emissions which improves environmental sustainability
+    - Availability of quality private education and general education indicators for all improves the liveability of a city and will allow people to get better paying jobs and employment improving both social and economic sustainability in a city.
+    - Low levels of corruption for liveability will create more stable government and improve economic development increasing economic sustainability.
+- Resilient [~definition](link_generated_on_download):: a city that is prepared to absorb and recover from any shock or stress while maintaining its essential functions, structures, and identity, as well as adapting and thriving in the face of continual change #~definition
+  - reasons for a country to be resilient
+    - high population density and growth
+    - increasing urbanisation
+    - climate change
+    - increasing social inequality
+    - large buildings and infrastructure
+  - Acute shock [~definition](link_generated_on_download):: sudden, sharp events that threaten a city #~definition
+    - earthquakes #[[acute shock]]
+      - [strategy/design solution](link_generated_on_download) #[[strategy/design solution]]
+        - increase building quality bu introducing building codes which include construction of earthquake resistance buildings
+        - development of early warning systems and construction of earthquake resistant infrastructure
+    - floods #[[acute shock]]
+      - [strategy/design solution](link_generated_on_download) #[[strategy/design solution]]
+        - development of early warning systems
+        - installation of drainage systems
+        - installation of flood barriers
+        - increasing height of roads or lifting building heights off ground level
+    - terrorist attacks #[[acute shock]]
+      - [strategy/design solution](link_generated_on_download) #[[strategy/design solution]]
+        - surveillance of suspects
+        - installation of surveillance cameras
+        - installation of anti-terror bollards such as in London or Melbourne
+    - disease outbreaks #[[acute shock]]
+      - [strategy/design solution](link_generated_on_download) #[[strategy/design solution]]
+        - development of contact-tracing technology
+        - installation of sanitation stations in public areas
+  - Chronic stress [~definition](link_generated_on_download):: weakens the fabric of a city on a day-to-day or cyclical basis #~definition
+    - climate change - sea level rise #[[chronic stress]]
+      - [strategy/design solution](link_generated_on_download) #[[strategy/design solution]]
+        - construction of sea walls
+        - installation of flood barriers
+        - increasing height of roads or lifting building heights off ground level
+    - high unemployment #[[chronic stress]]
+      - [strategy/design solution](link_generated_on_download):: generating new green jobs and retraining from declining industries and manufacturing areas in renewable energy production and installation or green plumbing to lower unemployment rates. #[[strategy/design solution]]
+    - inefficient public transport #[[chronic stress]]
+      - [strategy/design solution](link_generated_on_download):: construction of reliable, accessible public transportation systems #[[strategy/design solution]]
+    - alcoholism and family violence #[[chronic stress]]
+    - high crime rates #[[chronic stress]]
+    - food shortages #[[chronic stress]]
+      - [strategy/design solution](link_generated_on_download) #[[strategy/design solution]]
+        - protection of agricultural land close to cities to allow ongoing food production, reducing food miles and ensuring local food supply within a city
+        - can be further enhanced by a strategy to use wastewater from water treatment facilities as water for agricultural production; ensuring water supply for farming
+    - water scarcity #[[chronic stress]]
+      - [strategy/design solution](link_generated_on_download) #[[strategy/design solution]]
+        - construction of water treatment plants for recycling wastewater
+        - construction of desalination plants
+        - diversify water sources
+        - [~case study](link_generated_on_download) Singapore
+  - [~case study](link_generated_on_download) Melbourne

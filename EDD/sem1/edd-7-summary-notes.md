@@ -1,0 +1,92 @@
+<h1 align="center"><b> 7 Consequences of climate change and hazards Summary Notes </b></h1>
+
+> Related: [EDD Notes](/tcfs-notes/EDD/README.md)
+
+- Climate VS Weather
+    - Climate [~definition](link_generated_on_download)  
+- Conquences of Enhanced Greenhouse Effect
+    - Increased rate of malaria - because of increased mosquito population
+    - Climate changes
+        - drier in some places
+        - wetter in othe rplaces
+        - more extreme weather events
+        - more frequent floods, droughts, cyclones, typhoons, storms, heatwaves etc.
+    - who is most affects by consequences?:: the poor
+- Hazards [~definition](link_generated_on_download):: situations that have the potential to cause harm to people and/or the environment ([~examples](link_generated_on_download) volcano) #~definition
+    - Hazard Event [~definition](link_generated_on_download):: occurs when the potential to cause harm by a hazard is realised ([~examples](link_generated_on_download) Volcanic eruption) #~definition
+    - Disaster [~definition](link_generated_on_download):: when a hazard event overwhelms the local environment and requires national or international assistance for its recovery #~definition
+    - Types of Hazards
+        - Geophysical/Geological [~definition](link_generated_on_download):: hazards due to tectonic activity #~definition
+            - [~examples](link_generated_on_download) #~examples
+                - earthquakes
+                - volcanic eruptions
+                - tsunami
+        - Hydro-meteorological [~definition](link_generated_on_download):: hazards which involve weather and climate #~definition
+            - [~examples](link_generated_on_download) #~examples
+                - floods
+                - droughts
+                - heatwaves
+                - storms
+                - cyclones
+                - bushfires
+                - 
+                - 
+                - Bushfires [~definition](link_generated_on_download):: fires that burn out of control in grassland or forest #~definition
+                    - causes
+                        - strong correlation between drought and bushfires - 
+                    - types of bushfires
+                        - grassfires - spread along flat areas covered in grasses or scrubland  
+                        - forest fires - occur in forests and woodland
+                    - factors affecting bushfire behaviour
+                        - climate - Particular regions are more fire-prone due to the amount of rainfall and the average temperatures
+                        - temperature - hot, dry weather will dry fuel and encourage fire to spread, especially if high temperatures are prolonged
+                        - wind - dry winds can feed a fire, increase its speed, dry fuel and spread embers which can then start new fires
+                        - topography - fires burn faster up steep, forested slopes as flames can reach more unburnt fuel and radiant heat pre-heats higher fuels
+                        - fuel load - large amounts of dry, flammable fuels such as grasses, leaf litter and scrub increase the magnitude of a fire
+                    - [~case study](link_generated_on_download) Black Saturday
+                - Tropical Cyclone   
+                - Floods[~definition](link_generated_on_download):: an accumulation of water over normally dry land #~definition
+                    - how/why floods occur
+                        - as climate becomes warmer, we are likely to experience more rainfall
+                        - when ranfall quantities are very large over a short period of time, the soil quickly becomes saturated and is unable to absorb all of the water
+                        - run-off water increases, overwhelming the capacity of creeks, rivers and drainage systems
+                    - [~stat](link_generated_on_download) For every {{1}} $$ \degree C $$$$$$ increase in temperature, the atmosphere can hold an extra {{7}} % of water vapour
+                    - types of flood
+                        - slow-onset floods
+                        - rapid-onset floods
+                        - coastal floods
+                        - flash floods
+        - Biological [~definition](link_generated_on_download):: a biological substance that poses a threat to the health of living organisms, primarily humans #~definition
+            - [~examples](link_generated_on_download) #~examples
+                - malaria
+                - viruses
+                - bacteria
+    - 
+- Types of Natural Hazards
+- Biological Hazard
+- Black Saturday
+- Bushfire
+- Climate
+- Coastal Flood
+- Crown Fire
+- Disaster
+- Flash Flood
+- Flood
+- Geological/Geophysical Hazard
+- Ground Fire
+- Hazard
+- Hydro-meteorological Hazard
+- Rapid Onset Flood
+- Slow Inset Flood
+- Storm Surge
+- Surface Fire
+- Hurricane
+- Tsunami
+- Topograpy
+- Displaced
+- Run off
+- Technological Hazard
+- Tropical Cyclone
+- Weather
+- Typhoon
+Format

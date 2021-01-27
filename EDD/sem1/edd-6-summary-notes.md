@@ -1,0 +1,86 @@
+<h1 align="center"><b> 6 Climate Change and the Enhanced Greenhouse Effect Summary Notes </b></h1>
+
+> Related: [EDD Notes](/tcfs-notes/EDD/README.md)
+
+- Climate Change [~definition](link_generated_on_download):: changes in the Earth's climate (such as precipitation, temperature, changes in the seasons, changes in weather patterns, increase in frequency and the extent of extreme weather events) #~definition
+    - [~examples](link_generated_on_download) #~examples
+        - rising sea levels
+        - [Global Warming ~definition](link_generated_on_download)  
+        - ice melting in poles
+- Global Warming [~definition](link_generated_on_download):: increase in the Earth's average surface temperature due to anthropogenic activities; Refers to the upward temperature change across the entire earth particularly since the 1970s due to greenhouse emissions #~definition
+    - consequences
+        - rising temperature
+        - rising sea levels
+        - melting glaciers and icecaps
+        - changing ecological patterns
+            - plant and animal distribution
+            - crop yields
+            - warming and acidification of oceans
+- reasons why coral reefs are dying
+    - increase in sea temperature or warming of oceans - what water temperatures increase, the coral expel the zooxanthelle which provide them with food and colour 
+    - ocean acidification - where carbon dioxide mixes with water to create carbonic acid which threatens the development of coral
+- Greenhouse Effect [~definition](link_generated_on_download):: Overall average weather at a place over a period of time (decades) #~definition
+    - ![](https://remnote-user-data.s3.amazonaws.com/hl71yIlcW5OrKZhXvJBahRUGUdycqikRtJiCjsOxtdXcTurt2ufz9vJIYi2DL9NK9YJsT90UIqj8rEwuzxI2Lh0qc2G05DWNnSEfGJ2O-piyQufZeg2XCYAFsTTbcfZ1)  
+- Enhanced Greenhouse Effect [~definition](link_generated_on_download):: Enhancement/acceleration of the greenhouse effect due to human (anthropogenic) activities; driving force behind global warming #~definition
+    - ![](https://remnote-user-data.s3.amazonaws.com/-0Nb6QHLSlJGY2k32h0Ed0gMYLwIBbQ3ht14D6QnAD7dlF_XqNak3bt9Z5xkTZr660T6Bs9k8CdRt6WEnnJ1jmAYOPkLQz5BN4b8Tlz5bIIUs8mdrTfThseiagq1jJEa)
+- Difference between [Greenhouse Effect ~definition](link_generated_on_download) and [Enhanced Greenhouse Effect ~definition](link_generated_on_download) #[[Enhanced Greenhouse Effect [~definition](link_generated_on_download)]] 
+    - Greenhouse Effect occurs naturally allowing life to exist on planet Earth. Without the greenhouse effect, Earth would be too cold for living things to exist on
+    - Enhanced Greenhouse Effect  refers to a greater amount of CO2 and other heat-trapping gases in the atmosphere which is contributing to the warming of the Earth's surface
+- Greenhouse Gases
+    - Carbon Dioxide (CO2)
+        - [~stat](link_generated_on_download) responsible for{{ two thirds}} of additional warming caused by GHGs emitted  
+        - [~stat](link_generated_on_download)CO2 levels have risen from {{295 }}ppm in 19000 to{{ 408 }}ppm at the present time   
+        - sources
+            - fossil fuels (coal, oil, gas)
+            - breathing
+            - air conditioner
+            - deforestation
+                - Forests absorb CO2, but when they are cut and burnt produce CO₂ so deforestation has a double impact
+    - Methane
+        - [~stat](link_generated_on_download) {{21 }}times more powerful as a GHG than CO2  
+        - [~stat](link_generated_on_download) can stay in the atmosphere for about{{ 12years}}
+        - breaks down into carbon diaoxide (methane + oxygen --> carbon dioxide + water)
+        - sources
+            - farming: grazing cattle on a large scale
+            - decomposing waste
+    - Nitrogen Oxide
+    - Water Vapour
+    - CFCs
+        - man-made chemical compound - not natural
+        - [~stat](link_generated_on_download)   CFCs contribute to the depletion of the Ozone layer (as {{1}} CFC molecule destroys {{100,000}} ozone molecules)
+        - The Montreal Protocol internationally banned the use of CFCs
+        - the only link between [Global Warming ~definition](link_generated_on_download)  and  [Ozone layer](link_generated_on_download)  
+        - sources
+            - arrosols
+            - refridgeration plants
+    - three most significant greenhouse gases affected by anthropogenic activity (from most significant to least significant)
+        - [Water Vapour](link_generated_on_download)  
+        - [Methane](link_generated_on_download)  
+        - [Nitrogen Oxide](link_generated_on_download)  
+    - compare the contribution of developed and developing countries to greenhouse gas levels:: developed countries have a much higher carbon footprint than developing countries
+    - why will developing countries be most impacted by a 2 degree rise in temperatures?
+        - less able to manage changes in agricultur
+        - low lying coasts and islands (Papua New Guinea-Cataret Islands) liable to increased flood risk with rising sea levels, storm surges, increasing number of cyclones and hurricanes and loss of food supply
+- Anthropogenic Climate Change
+    - Species impacted by anthropogenic climate change
+        - polar bear
+            - warming of the Artic has led to decline in sea ice, shortening the hunting area and availability of seals the major source of food for the polar bears.
+            - Changes of rainfall patterns may lead to collapse of den roofs, leaving mothers and polar bear cubs exposed to the elements and predators.
+            - Lack of sea ice means that some of the polar bears are drowning as they search for food
+        - orang utans
+            - Climate change is placing additional pressure on the rainforests of Indonesia. Climate models suggest that higher rainfall can be expected across the region, thereby accentuating flooding and landslides.
+            - Increased rainfall could impact plants the orangutans rely on for food.
+            - Drought could lead to more intense forest fires making both the forest more vulnerable and putting the orangutans at further risk.
+        - giant panda
+            - at risk from climate change due to the potential shifting distribution of bamboo forests. This is particularly important given the fragmented nature of panda populations.
+        - sea turtles
+            - sex changes due to the higher temperature of the sand in which the turtle eggs are incubated
+- Ozone layer
+    - function:: absorb the sun's harmful UV radiation that can alter DNA and cause cancer, protects life on Earth
+    - 
+- Global Warming
+- Climate Change
+- Anthropogenic Climate Change
+- Greenhouse Effect
+- Enhanced Greenhouse Effect
+- Ozone Depletion

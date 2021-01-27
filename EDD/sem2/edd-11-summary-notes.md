@@ -1,0 +1,140 @@
+<h1 align="center"><b> 11 Renewable Energy Summary Notes </b></h1>
+
+> Related: [EDD Notes](/tcfs-notes/EDD/README.md)
+
+
+- Why is energy important?
+  - It is the foundation upon which economies are built
+  - all the other resources we use (coal, metal etc.) require energy to be extracted from the Earth
+- problems with the global dependence on [Natural & Non-Renewable](link_generated_on_download) energy
+  - it is finite
+    - non-renewable resources exist in limited deposits and cannot be replaced within scales relevant to human lifetimes
+    - they are being used faster than they are being formed
+  - they pollute/contribute to vast amounts of [Greenhouse Gases](link_generated_on_download)
+- SDG 7 affordable clean energy
+  - 3 main goals
+    - decarbonise economy
+    - decentralisation of energy supply
+    - digitisation of energy system
+- Renewable Energy
+  - benefits of renewable energy
+    - clean energy - minimal GHG emissions
+    - renewable energy will not run out - always available or infinite
+  - [~stat](link_generated_on_download) {{13}}% total energy needs and approximately {{21}}% electricity needs are from renewable sources
+  - Solar Energy
+    - [~stat](link_generated_on_download) Amount of solar energy consumption that falls on Earth's surface every {{40}} minutes is equal to total annual energy consumption for all people on the planet
+    - Types
+      - Photovoltaic (PV) Cells
+        - Large Scale Solar (LSS) Photovoltaic (PV) is now the **cheapest** form of electricity generation
+        - [~stat](link_generated_on_download) can convert{{ 20}}% of solar energy into electricity
+        - Solar PV should cover {{a quarter}} of global energy by 2050
+          - due to increased use in Indonesia, China and Japan
+      - Concentrated Solar Power (CSP)
+        - used in Large Scale Solar (LSS) plants
+        - how it works
+          - uses mirrors to concentrate solar rays onto tower
+          - heats fluid (molten sodium/salt) which creats steam --> generators --> electricity
+            - fluid can hold heat - can generate electricity **without the Sun**
+    - limitations of Solar Energy
+      - some areas of the world are not suited for solar
+  - Wind Energy
+    - [~stat](link_generated_on_download) onshore wind power accounted for {{23}}% of world electricity production in 2018
+    - cheapest renewable electricity producer (other than geothermal)
+    - limitations of Wind Energy
+      - turbines are costly
+      - variable output
+        - requires technological improvements
+        - even windy locations are not always windy
+      - geographically variable
+        - requires minimum wind speeds of 5m /s
+        - wind speeds over 12m/s can also damage blades
+      - noise pollution
+        - people think they are noisy and ugly
+      - impacts on endangered species
+        - such as migratory birds
+  - Hydroelectric power
+    - limitations of Hydroelectric power
+      - increase in dam construction
+      - requires good water supply
+      - displacement of local population
+      - dam wall leakage/collapse
+      - streamflow changes
+        - affect soil fertility --> affect agricultural sector
+        - migratory fish unable to migrate and swim upstream
+        - affect biodiversity
+  - Geothermal
+    - [~stat](link_generated_on_download) the amount of geothermal energy within {{10,000}}m of the Earth's surface is estimated to be {{50,000}} times more than all the oil and gas resources worldwide
+    - limitations of Geothermal
+      - costly to set up
+      - not all areas geologically suited
+        - cast majority of geothermal power stations are located on areas with high volcanic activity such as on tectonic plate boundaries
+    - [~case study](link_generated_on_download) South Australia
+      - Granite rock underground in South Australia is 250$$ \degree C $$ , heated by natural radioactivity trapped under 4km thick sediment
+      - Piping water down to these hot rocks and back again allows it to collect heat that can be used
+      - Enough energy for 75 years for Australia - the same as brown coal, and water is recyclable
+    - [~case study](link_generated_on_download) Iceland
+      - [~stat](link_generated_on_download) up to {{90}}% of heating and {{30}}% of electricity in Iceland come from geothermal energy
+      - most of the rest comes from hydropower
+  - Ocean-Tidal and Wave Power
+    - capturing energy from the movement of water in the tides and converting it to electricity
+    - limitations
+      - newer
+      - not cost efficient
+  - Bioenergy - biomass and biofuels
+    - traditional bioenergy
+      - wood fuel
+      - crops
+      - landfill gas
+      - animal dung
+    - modern bioenergy
+      - biogas
+      - landfill gas
+      - rubbish
+      - alcohol fuels
+    - [~case study](link_generated_on_download) Melbourne Water
+      - generating power from sewage since 1990s
+      - biogas (mainly methane) captured under covers of storage ponds
+        - produces 95% of the treatment plant's needs
+    - limitations
+      - destruction of wild forests and habitats
+      - if biofuel being used for fuels - more demand for crops which increases the price of crops and people go hungry
+        - For example, sugar cane instead of being grown and producing sugar for human consumption the sugar cane is grown to be converted to ethanol to provide an alternative fuel for cars and buses.
+    - Hydrogen
+      - grey hydrogen
+        - split hydrogen atoms
+        - produced by fossil fuels
+        - produced CO2
+      - blue hydrogen
+        - produced by foddil fuels
+        - added carbon capture during combustion
+      - green hydrogen
+        - excess electricity from renewable energy sources can be stored as hydrogen for later use
+        - [~stat](link_generated_on_download) 1kg hydrogen has{{ 130}} times more energy than 1kg battery
+      - limitation
+        - catalysts are expensive
+          - still require energy to reach optimum temperature
+          - 50% energy efficient
+          - transport of hydrogen gas required compression and cooling into liquid
+            - [~stat](link_generated_on_download){{ 40}}% of its own energy is used to liquify nitrogen
+  - why uptake of renewable energy is not more rapid
+    - costs involved have been high (but is not reducing)
+    - established infrastructure in coal and oil-based energy supplies
+  - scalable:: When an energy source is scalable it can be used on both large scales or small scales
+    - [~examples](link_generated_on_download) many wind turbines or single windmill; solar panels on a house of large scale solar thermal plant
+  - explain how using renewable energy in cities may improve the resilience of cities
+    - growing the green economy and increasing jobs in the renewable energy sector therefore reducing a chronic stress which impact cities such as high unemployment.
+    - Having a renewable energy source energy system to cope with increasing energy demands as heatwaves increase in a city.
+    - Reduce fossil fuel- based power stations which generate the electricity for cities and may be vulnerable to the acute shock of a terrorist attack reducing resilience in a city.
+    - Resilient cities would be increasing the use of renewable energy to reduce the impact of resources scarcity particularly of fossil fuels.
+    - Pollution from fossil fuel- based power generation can lead to pollution and impact human health which can impact the resilience of a city.
+    - Using renewable energy may help cities adapt and mitigate the impacts of anthropogenic climate change as a chronic stress now affecting the resilience of cities.
+- Nuclear Energy
+  - is nuclear energy a fossil fuel?:: NO, it is produced from Uranium, which is not a fossil fuel
+  - is nuclear energy renewable?:: NO, it is non-renewable because Uranium is a finite resource
+  - is it clean energy?:: yes
+  - limitations of nuclear energy
+    - accidental radioactive release during production and waste storage
+    - requires large, complicated, expensive equipment and buildings
+      - can take up to 15 years to build
+    - requires constant water supply
+    - centralised - owned by big companies and governments

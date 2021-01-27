@@ -1,0 +1,48 @@
+<h1 align="center"><b> 4 Economic Sustainability and Globalisation Summary Notes </b></h1>
+
+> Related: [EDD Notes](/tcfs-notes/EDD/README.md)
+
+- Globalisation
+    - Globalisation [~definition](link_generated_on_download):: the movement of people and ideas; changes in attitudes and perceptions; breakdown of borders #~definition
+    - Areas of Globalisation
+        - Economy
+            - More independence between major economies
+            - International banking and internet banking
+            - Growth of international investment
+            - trade groups - reduced importance of individual companies
+        - Culture
+            - global travel which is fast and cheap
+            - spread of English language and dominance of western cultural values
+            - world more homogenized
+        - Politics
+            - spread of inter-government organisations
+                - [~examples](link_generated_on_download) UN, World Bank  
+            - allows global NGOs to emerge
+                - [~examples](link_generated_on_download) Oxfam, World Vision, Greenpeace, Amnesty International, World Wide Fund for Nature (WWF), Medicins sans Frontieres (Doctors without Borders)
+            - global problems that require global responses
+                - climate change
+                - global financial crises
+                - terrorism
+                - COVID-19 / global pandemic
+    - Reasons for increasing global interdependence
+        - Liberalisation and increasing world trade
+        - increasing cultural exchange
+        - modern technology and communications
+    - Benefits of Globalisation
+        - improved standards of living such as life expectancy, increased income and better education and literacy
+        - more access to international travel, more cultural integration and increased sharing of knowledge and technology between countries
+        - increased resource availability
+        - faster economic growth
+    - Disadvantages of Globalisation
+        - widening gap between rich and poor
+        - political, social and economic imbalance across the world
+        - the poor are not benefiting but rather becoming poorer
+        - only a small handful of countries are benefiting from recent globalisation trends
+    - which countries have benefited from recent globalisation?:: China, India, South Korea
+    - which countries have been disadvantaged?:: 
+    - Backlash/Criticism of Globalisation
+        - Some countries and communities are starting to see political forces mounting campaigns against increasing globalisation. This is particularly within countries that perceive they have missed out their communities.
+        - or that there have been social and economic consequences as a result of globalisation within
+    - That in the future there will be a decrease of extraction for example, oil and then constricted
+- Resource scarcity [~definition](link_generated_on_download):: various commodities are reaching or has reached peaks of extractions. This constricts the availability of these resources for the future. #~definition
+- explain how the Green economy can be a solution to some of the impacts of globalisation:: **Avoid resource scarcity** by shifting to a low carbon economy, **using resources much more efficiently** and** making sure people are included in society**. This would include jobs in **renewable energy supply** reducing carbon emissions,** electric vehicle technology, sustainable buildings** etc.
