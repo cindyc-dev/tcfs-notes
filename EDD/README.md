@@ -46,6 +46,10 @@
 # 7 Consequences of climate change and hazards
 * [Summary Notes](sem1/edd-7-summary-notes.md)
 # 8 Research Report
+* Question 5 posters (background wasn't meant to be purple, it was supposed to be grey...)
+  * ![5a](sem1/5a.png)
+  * ![5b&c](sem1/5b&c.png)
+  * ![5d](sem1/5d.png)
 # 9 Who and what is most affected by climate change
 # 10 Responses to Climate Change
 * [Summary Notes](sem1/edd-10-summary-notes.md)
