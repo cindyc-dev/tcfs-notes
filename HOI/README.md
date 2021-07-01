@@ -1,6 +1,6 @@
 <h1 align="center"><b> History of Ideas (HOI) Notes </b></h1>
 
-> Related: [TCFS NOTES](/tcfs-notes/README.md)
+> Related: [TCFS NOTES](..\README.md)
 * Most Notes were originally written in OneNote or Google Docs before being converted/exported into GitHub-Flavoured Markdown (.md) files 
 
 <h1> Table of Contents </h1>
