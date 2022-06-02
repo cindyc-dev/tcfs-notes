@@ -16,10 +16,6 @@
 </details>
 
 ---
-```
-p.s. I am not responsible for any possible bodily harm, anxiety, depression, loss of marks due to plagiarism or allergies to seafood that may arise from using these notes - use these notes at your own risk
-```
----
 # [Drama (DR)](DR/README.md)
 * I don't really have any notes for Drama lol - My advice is to just do your best (like put fear aside and just go all out and as crazy as possible) for Drama because doing well can seriously boost your English mark
 
